@@ -1,4 +1,4 @@
-# FA25 AIL303m Project Group 2
+# Red Wine Quality Analysis Project
 
 ## 1. Project Description
 
@@ -34,7 +34,8 @@ The goal of the project is to build a reproducible, well-structured machine lear
 ├── src/
   ├── Reusable Function.ipynb                   
 ├── reports/
-  ├── AIL_Report_Group_2.pdf             
+  ├── AIL_Report_Group_2.pdf
+├── video/           
 ├── README.md              
 └── requirements.txt       
 ```
